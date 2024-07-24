@@ -1,5 +1,5 @@
 <p align="center">
-  <!--- <img src="https://github.com/jvictordev1/personal-page/blob/main/public/icon.svg"/> --->
+  <!--- <img src="https://github.com/jvictordev1/personal-page/blob/main/public/icon.svg"/> ---!>
 </p>
 
 <p align="center">
@@ -28,7 +28,9 @@ Oferecemos uma plataforma que é capaz de registrar, organizar, analisar e forne
 Nossa ferramenta garante, de maneira fácil e eficiente, a rastreabilidade da sua cadeia de produção, trazendo facilidade em identificar, localizar e analisar os dados de todos processos que envolvem a consolidação do seu produto. Além de dar espaço a insights valiosos da etapa, já que, no setor industrial, um entendimento melhor dos processos e uma compreensão clara dos dados contribui diretamente com a otimização do ambiente de trabalho.
 
 ---
+
 # <a href="#who-are-we">EN-US</a>
+
 ## Who are we
 
 We are a production chain data traceability and management startup founded by five friends in 2024 during the Catalisa ICT Júnior Program, promoved by Sebrae Pernambuco.
