@@ -1,5 +1,5 @@
 <p align="center">
-  <!--- <img src="https://github.com/jvictordev1/personal-page/blob/main/public/icon.svg"/> ---!>
+  <img height="200px" src="https://github.com/scanai-startup/.github/blob/main/assets/logo.png"/>
 </p>
 
 <p align="center">
